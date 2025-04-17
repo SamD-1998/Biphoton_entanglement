@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Gaussian-preserving maps in frequency-entangled biphoton spectroscopy"
+authors:
+  - family-names: Dambal
+    given-names: Sameer
+  - family-names: Srimath Kandada
+    given-names: Ajay Ram
+  - family-names: Bittner
+    given-names: Eric R.
+date-released: 2025-04-17
+version: 1.0.0
+doi: 10.1234/your-doi-here  # OR use arXiv if you don't have a DOI
+repository-code: https://github.com/yourusername/Biphoton_entanglement
