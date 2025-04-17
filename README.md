@@ -11,3 +11,9 @@ We use a bilinear bosonic Hamiltonian to evolve the input joint spectral amplitu
 ## 🙌 Acknowledgments
 
 This work was supported by the National Science Foundation (CHE-2404788) and the Robert A. Welch Foundation (E-1337).
+
+## 📝 Citing this Work
+
+If you use this code or theoretical framework in your research, please cite it using the citation metadata provided in the [`CITATION.cff`](./CITATION.cff) file.
+
+You can also use the “Cite this repository” button on the top-right of this GitHub page to get a formatted citation in BibTeX, APA, or other styles.
