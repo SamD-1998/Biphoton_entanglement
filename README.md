@@ -10,7 +10,7 @@ We use a bilinear bosonic Hamiltonian to evolve the input joint spectral amplitu
 
 ## 🙌 Acknowledgments
 
-This work was supported by the National Science Foundation (CHE-2404788) and the Robert A. Welch Foundation (E-1337).
+This work was supported by the National Science Foundation (CHE-2404788) and the Robert A. Welch Foundation (E-1337). ARSK acknowledges funding from the National Science Foundation CAREER grant (CHE-2338663), start-up funds from Wake Forest University, funding from the Center for Functional Materials at Wake Forest University.
 
 ## 📝 Citing this Work
 
